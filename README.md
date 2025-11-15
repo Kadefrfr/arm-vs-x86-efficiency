@@ -47,7 +47,9 @@ Both systems will connect to the same network and be monitored using identical p
 - **Operating System:**  Arch Linux (ARM & x86_64)  
 - **Container Runtimes:** Docker CE v27 and Podman v5  
 - **Benchmark Tools:**  
-  - TBD
+  - `sysbench`, `stress-ng`, `hyperfine`  
+  - `bzip2` / `xz` for I/O tasks  
+  - `lm-sensors` / `/sys/class/thermal` for temperature
 - **Languages for Custom Workloads:** C and Python 3  
   - `gcc`, `make`, `python3`, `numpy`, `psutil`  
 
