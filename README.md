@@ -91,4 +91,9 @@ Both systems will connect to the same network and be monitored using identical p
 
 ---
 
-## 📂 Repository Structure
+**Kade Immekus**  
+Texas | Computer Systems Engineering Research  
+Website: [immekus.dev](https://immekus.dev)  
+GitHub: [github.com/kadefrfr](https://github.com/kadefrfr)
+
+---
